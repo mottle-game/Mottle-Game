@@ -2,7 +2,6 @@
 
 > **"Move to hunt. Stop to vanish. Outlast the seekers."**
 
-[![Play Mottle Online](https://img.shields.io/badge/🎮_Play_Mottle-Free_in_Browser-emerald?style=for-the-badge)](https://www.8x.gg/apps/xPKXL5uurAzb6pAG)
 [![Field Guide](https://img.shields.io/badge/📖_Field_Guide-gamemottle.app-indigo?style=for-the-badge)](https://gamemottle.app)
 
 Welcome to the player community hub and guide for **Mottle Game** (*Mottle — Hide & Seek*), the instant-play browser game of camouflage, stealth, and timing.
@@ -23,7 +22,7 @@ The twist? **You can only hide when you stop moving.** When you travel, you shin
 
 You can play immediately with **no download**, **no installation**, and **no registration**:
 
-👉 **[Click Here to Play Free on 8x.gg](https://www.8x.gg/apps/xPKXL5uurAzb6pAG)**
+👉 **[Click Here to Play Free on Game Mottle App](https://gamemottle.app)**
 
 ### Controls
 
@@ -122,9 +121,6 @@ Looking for even more details, animations, and advanced tactics? Check out our d
 ---
 
 ## 🎖️ Credits & Attribution
-
-- **Game Creator**: Star Lord
-- **Game Platform**: [8x.gg](https://www.8x.gg/)
 - **Original Release**: September 22, 2026
 - **Field Guide Site**: [gamemottle.app](https://gamemottle.app)
 
